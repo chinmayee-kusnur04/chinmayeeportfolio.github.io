@@ -43,7 +43,7 @@ main .main-heading {
 .line {
     border-bottom: 2px solid rgba(255, 255, 255, 0.17); /* Line below the main heading */
     margin-bottom: 44px; /* Adjust as needed */
-    width: 94%;
+    width: 97%;
 }
 
 .additional-text {
@@ -61,7 +61,7 @@ main .main-heading {
     margin-top: 8rem;
     border-top: 2px solid rgba(255, 255, 255, 0.17);
     border-bottom: 2px solid rgba(255, 255, 255, 0.17);
-    width: 94%;
+    width: 97%;
 }
 
 .project-image {
