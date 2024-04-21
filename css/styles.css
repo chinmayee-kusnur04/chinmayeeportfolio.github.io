@@ -375,13 +375,13 @@ body {
   
   @media (max-width: 48rem) {
     .header {
-      flex-direction: column;
+      flex-direction: row;
       align-items: center;
       gap: 1rem;
     }
   
     .navigation {
-      flex-direction: column;
+      flex-direction: row;
       gap: 1rem;
     }
   
@@ -389,8 +389,7 @@ body {
     .roles, .intro-work, .three-grid, .two-grid, .content-grid {
       grid-template-columns: 1fr;
       gap: 1rem;
-      padding: 2rem 1.25rem;
-      margin-top: 10%;
+      padding: 2rem 1.25rem 1rem, 1.25rem;
     }
 
     .hero{
@@ -410,9 +409,13 @@ body {
     }
   
     .intro p, .intro-work p {
-      padding: 0.5rem 0.75rem;
+      padding: 2rem 1.25rem 1.5rem 1.25rem;
       font-size: 2.5rem;
       width: 100%;
+    }
+
+    .intro, .intro p{
+      margin-top: 0;
     }
   
     .roles {
@@ -423,7 +426,7 @@ body {
   
     .role {
       padding: 0.25rem 0.5rem;
-      font-size: 1rem;
+      font-size: 0.9rem;
     }
 
     .grid-container {
@@ -476,4 +479,5 @@ body {
       font-size: 0.75rem;
     }
   }
+  
   
