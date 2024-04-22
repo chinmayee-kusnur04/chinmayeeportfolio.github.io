@@ -121,13 +121,13 @@ body {
   }
   
   .left-box {
-    background-color: #2a0707;
+    background-color: #8E9087;
     border-top-right-radius: 5%;
     border-bottom-right-radius: 5%;
   } 
 
   .left-box-form {
-    background-color: #272727;
+    background-color: #8E9087;
     border-top-right-radius: 5%;
     border-bottom-right-radius: 5%;
   }
@@ -152,7 +152,7 @@ body {
  }
 
   .right-box {
-    background-color: #1C2C38;
+    background-color: #8E9087;
     border-top-left-radius: 5%;
     border-bottom-left-radius: 5%;
     order: 2;
