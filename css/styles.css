@@ -107,10 +107,6 @@ body {
     font-weight: 300;
     white-space: nowrap;
   }
-
-  .u{
-    margin-top: 35%;
-  }
   
   .grid-container {
     display: grid;
