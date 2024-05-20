@@ -462,7 +462,11 @@ body {
 
     .image, .image-change{
         border-radius: 0;
-    } 
+    }
+
+    .c{
+        display: none;
+    }
 
     .mb{
         margin-bottom: 15%
