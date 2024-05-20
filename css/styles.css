@@ -460,6 +460,14 @@ body {
         border-radius: 0;
     } 
 
+    .mb{
+        margin-bottom: 15%
+    }
+
+    .mb a{
+        margin-bottom: 10%
+    }
+
     .contact {
       padding: 1.313rem 1.25rem;
     }
