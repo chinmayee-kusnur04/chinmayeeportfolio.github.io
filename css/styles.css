@@ -382,7 +382,7 @@ body {
     }
   
     .intro,
-    .roles, .three-grid, .two-grid, .content-grid {
+    .roles, .three-grid, .two-grid, .content-grid, .work{
       grid-template-columns: 1fr;
       gap: 1rem;
       padding: 2rem 1.25rem 1rem, 1.25rem;
