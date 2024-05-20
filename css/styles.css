@@ -404,7 +404,7 @@ body {
       margin-left: 0;
     }
 
-    intro-work{
+    .intro-work, .profile-info{
       padding: 2rem 1.25rem 1.5rem 1.25rem;
     }
   
