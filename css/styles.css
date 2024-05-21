@@ -464,6 +464,12 @@ body {
     margin: 1.25rem; 
     }
 
+    .profile-image{
+    width:85%;
+    border-radius: 2%;
+    margin: 0 2rem; 
+    }
+
     .c{
         display: none;
     }
