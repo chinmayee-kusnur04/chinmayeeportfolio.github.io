@@ -460,6 +460,10 @@ body {
         border-radius: 0;
     }
 
+    .profile-info{
+    margin: 1.25rem; 
+    }
+
     .c{
         display: none;
     }
