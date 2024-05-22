@@ -410,9 +410,12 @@ body {
     .intro, .intro p{
       margin-top: 0;
     }
+
+    .intro p{
+        margin-bottom: 1rem; 
+    }
   
     .roles {
-      padding: 0.5rem 0.75rem;
       margin-left: 0%;
       margin-top: 0%;
     }
@@ -434,7 +437,7 @@ body {
         padding: 2rem 1.25rem 3.5rem 1.25rem;
     }
 
-    .intro p, .roles{
+    .intro p{
         padding: 1rem 1.25rem;
     }
       
