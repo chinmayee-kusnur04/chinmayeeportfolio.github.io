@@ -403,12 +403,8 @@ body {
   
     .intro p, .intro-work p {
       padding: 2rem 1.25rem 1.5rem 1.25rem;
-      font-size: 2.5rem;
+      font-size: 2.75rem;
       width: 100%;
-    }
-
-    .intro-work{
-      margin: 2rem 1.25rem 1.5rem 1.25rem;
     }
           
 
@@ -463,14 +459,18 @@ body {
     }
 
     .profile-info{
-    margin: 1.25rem 2rem; 
-    width: 80%;
+        margin: 1.25rem 2rem; 
+        width: 80%;
     }
 
     .profile-image{
-    width:85%;
-    border-radius: 2%;
-    margin: 0 2rem; 
+        width:85%;
+        border-radius: 2%;
+        margin: 0 2rem; 
+    }
+
+    .experience-title{
+        font-size: 2rem;
     }
 
     .c{
