@@ -419,7 +419,7 @@ body {
   
     .role {
       padding: 0.25rem 0.5rem;
-      font-size: 0.9rem;
+      font-size: 0.8rem;
     }
 
     .grid-container {
@@ -434,9 +434,10 @@ body {
         padding: 2rem 1.25rem 3.5rem 1.25rem;
     }
 
-      .intro p, .roles{
-        padding: 2rem 1.75rem 3.5rem 1.75rem;
-      }
+    .intro p, .roles{
+        padding: 1rem 1.75rem;
+    }
+      
     .left-box, .left-box-form {
         border-top-right-radius: 0;
         border-bottom-right-radius: 0;
