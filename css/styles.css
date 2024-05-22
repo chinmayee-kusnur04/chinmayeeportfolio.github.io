@@ -373,6 +373,10 @@ body {
       flex-direction: row;
       gap: 1rem;
     }
+
+    .header{
+      padding: 1.25rem;
+    }
   
     .intro, .intro-work,
     .roles, .three-grid, .two-grid, .content-grid, .work, .profile-info{
