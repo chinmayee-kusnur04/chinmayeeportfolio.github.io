@@ -389,6 +389,10 @@ body {
       gap: 1rem;
     }
 
+    .intro, .introwork{
+        padding: 2rem 1.25rem;
+    }
+
     .hero{
       padding: 2rem 1.25rem;
     }
@@ -406,10 +410,10 @@ body {
       width: 100%;
     }
 
-      .intro-work p {
+    .intro-work p {
         font-size: 2.25rem;
-          width: 100%;
-      }
+        width: 100%;
+     }
           
 
     .intro, .intro p{
