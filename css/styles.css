@@ -401,10 +401,15 @@ body {
       margin-left: 0;
     }
   
-    .intro p, .intro-work p {
+    .intro p{
       font-size: 2.75rem;
       width: 100%;
     }
+
+      .intro-work p {
+        font-size: 2.25rem;
+          width: 100%;
+      }
           
 
     .intro, .intro p{
