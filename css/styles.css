@@ -496,6 +496,10 @@ body {
         margin-bottom: 10%
     }
 
+    .content-grid, .three-grid {
+        padding: 0;
+    }
+
     .contact {
       padding: 1.313rem 1.25rem;
     }
