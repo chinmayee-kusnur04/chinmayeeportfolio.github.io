@@ -429,11 +429,14 @@ body {
         margin-bottom: 2%;
     }
 
-    .vehicle-experience, .vehicle-experience-change, .intro p, .roles{
+    .vehicle-experience, .vehicle-experience-change, {
         margin-top: 0;
         padding: 2rem 1.25rem 3.5rem 1.25rem;
     }
 
+      .intro p, .roles{
+        padding: 2rem 1.75rem 3.5rem 1.75rem;
+      }
     .left-box, .left-box-form {
         border-top-right-radius: 0;
         border-bottom-right-radius: 0;
