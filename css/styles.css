@@ -140,7 +140,7 @@ body {
     align-items: flex-start;
     justify-content: flex-start;
     padding: 0.5rem 3.688rem;
-    margin-top: 15%;
+    margin-top: 20%;
     order: 1; /* Display the vehicle experience box above in mobile view */
  }
 
@@ -149,7 +149,7 @@ body {
     border-top-left-radius: 5%;
     border-bottom-left-radius: 5%;
     order: 2;
-    width:100%;
+    width:90%;
   }
 
   .hero{
@@ -180,7 +180,7 @@ body {
     align-items: flex-start;
     justify-content: flex-start;
     padding: 0.5rem 3.688rem;
-    margin-top: 25%
+    margin-top: 30%
   }
   
   .experience-title {
