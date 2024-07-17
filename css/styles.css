@@ -56,10 +56,6 @@ body {
   .intro{
     margin-top: 5%;
   }
-
-  .intro-work{
-    margin-top: 5%;
-  }
   
   .intro p , .intro-work p{
     color: #000000;
@@ -76,7 +72,7 @@ body {
   }
 
   .intro-work p{
-    font-size: 3.75rem;
+    font-size: 3rem;
     margin-top: 5%;
   }
 
