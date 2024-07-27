@@ -30,10 +30,6 @@ body {
         transform: translateY(0); /* Reset vertical movement */
     }
     
-    /* Add some height to make scrolling necessary */
-    main {
-        height: 200vh; /* Ensure the content is long enough to scroll */
-    }
 
   
   .header {
