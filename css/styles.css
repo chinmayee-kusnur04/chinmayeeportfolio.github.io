@@ -16,21 +16,6 @@ body {
     position: relative;
     overflow: hidden;
   }
-
-  /* Fade-in effect */
-    .fade-in {
-        opacity: 0;
-        transition: opacity 1s ease-in-out, transform 1s ease-in-out;
-        transform: translateY(10px); /* Add a slight vertical movement for effect */
-    }
-    
-    /* Add visible class to make the element visible */
-    .fade-in.visible {
-        opacity: 1;
-        transform: translateY(0); /* Reset vertical movement */
-    }
-    
-
   
   .header {
     border-bottom: 0.063rem solid #000000;
