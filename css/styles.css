@@ -229,6 +229,16 @@ body {
     margin-top: 5%;
   }
 
+  .box{
+    background-color: rgba(255, 255, 255, 0.64);;
+    border: 0.063rem solid #000000;
+    color: black;
+    padding: 2rem 3rem;
+    border-radius: 0.5rem;
+    font-size: 150%;
+    font-weight: 500;
+  }
+
   .a{
     margin: 0.5rem 0;
     white-space: nowrap;
