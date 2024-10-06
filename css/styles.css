@@ -27,7 +27,7 @@ body {
 
   .name {
     color: #000000;
-    font-family: "SfPro-Regular", sans-serif;
+    font-family: "SfPro", sans-serif;
     font-size: 1rem;
     line-height: 1.52;
     font-weight: 400;
@@ -94,7 +94,7 @@ body {
     border: 0.031rem solid #000000;
     padding: 0.5rem 1rem;
     color: #000000;
-    font-family: "SfPro-Regular", sans-serif;
+    font-family: "SfPro", sans-serif;
     font-size: 0.8rem;
     line-height: 1.52;
     font-weight: 300;
@@ -181,7 +181,7 @@ body {
   
   .experience-title {
     color: #000000;
-    font-family: "SfPro-Medium", sans-serif;
+    font-family: "SfPro", sans-serif;
     font-size: 2.75rem;
     line-height: 1.2;
     font-weight: 500;
@@ -189,7 +189,7 @@ body {
   
   .experience-description {
     color: #000000;
-    font-family: "SfPro-Light", sans-serif;
+    font-family: "SfPro", sans-serif;
     font-size: 1.3rem;
     line-height: 1.2;
     font-weight: 100;
