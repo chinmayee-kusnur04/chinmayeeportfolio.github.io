@@ -145,7 +145,6 @@ body {
     border-top-left-radius: 5%;
     border-bottom-left-radius: 5%;
     order: 2;
-    width:80%;
   }
 
   .hero{
@@ -361,6 +360,10 @@ body {
     .resume {
       font-size: 0.875rem;
     }
+
+    .right-box {
+        width: 80%;
+    }
   }
   
   @media (max-width: 48rem) {
@@ -459,6 +462,7 @@ body {
         border-top-left-radius: 0;
         border-bottom-left-radius: 0;
         order: 1;
+        width: 100%;
       }
 
     .image, .image-change{
