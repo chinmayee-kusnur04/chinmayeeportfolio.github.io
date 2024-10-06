@@ -54,16 +54,16 @@ body {
   }
 
   .intro{
-    margin-top: 5%;
+    margin-top: 12%;
   }
   
   .intro p , .intro-work p{
     color: #000000;
     font-family: "SfPro", sans-serif;
-    line-height: 1.2;
-    letter-spacing: -0.02em;
+    line-height: 1.3;
+    letter-spacing: -0.01em;
     font-weight: 500;
-    width: 100%;
+    width: 90%;
   }
 
   .intro p{
