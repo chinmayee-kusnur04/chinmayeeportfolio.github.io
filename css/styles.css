@@ -146,6 +146,8 @@ body {
     border-top-left-radius: 5%;
     border-bottom-left-radius: 5%;
     order: 2;
+    width: 80%;
+      
   }
 
   .hero{
