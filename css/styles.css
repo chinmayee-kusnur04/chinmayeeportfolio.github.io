@@ -221,7 +221,7 @@ body {
   .three-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 8rem;
+    gap: 5rem;
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
