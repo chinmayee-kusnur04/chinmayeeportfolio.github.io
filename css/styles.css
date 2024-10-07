@@ -284,6 +284,10 @@ body {
     margin-bottom: 2%;
   }
 
+  .i{
+    width: 90%;
+  }
+
   .bold{
     font-family: "SfPro-Medium", sans-serif;
     font-weight: 500;
