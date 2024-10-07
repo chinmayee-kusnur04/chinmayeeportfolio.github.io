@@ -235,8 +235,9 @@ body {
     color: black;
     padding: 2rem 3rem;
     border-radius: 0.5rem;
-    font-size: 150%;
-    font-weight: 500;
+    font-size: 175%;
+    font-weight: 400;
+    width: 80%;
   }
 
   .a{
